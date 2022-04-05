@@ -1,7 +1,7 @@
 const data = {
   productItems: [
     {
-      id: "2",
+      id: "1",
       name: "sol Headphone",
       price: 499,
       image: "./pics/sol.jpg",
